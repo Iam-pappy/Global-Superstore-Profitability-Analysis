@@ -84,8 +84,8 @@ Avg Discount % = AVERAGE(sales[Discount])
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] www.linkedin.com/in/saheed-afolabi
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)] afolabisaheed556@gmail.com
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) www.linkedin.com/in/saheed-afolabi
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) afolabisaheed556@gmail.com
 
 ## Author: Afolabi Saheed
 ## Date: 5/9/2026
