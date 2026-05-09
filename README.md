@@ -34,6 +34,19 @@ This project answers: *"Which products look successful but actually harm profita
 | 3 | Audit Western Africa & Western Asia operations | Turn around $50K+ annual losses |
 | 4 | Technology category deep-dive with 10% temp discount cap | Category profitability clarity |
 
+## 📁 Repository Structure
+
+Global-Superstore-Profitability-Analysis/
+├── README.md
+├── Global_Superstore_2016
+│ └── Global_Superstore_Cleaned.xlsx
+│ └── Global_Superstore_Pivot_Tables.xlsx
+├── outputs/
+│ └── dashboard_screenshot.png
+├── deliverables/
+│ └── Project_Report.pdf
+└── Global_Superstore_Dashboard.pbix
+
 
 ## 🛠️ Tools & Technical Process
 
